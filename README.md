@@ -16,6 +16,25 @@ business/
   05-coaching-and-community.md    — human + AI coaching, community, affiliate, gamification
   06-competitive-positioning.md   — how we compare to other platforms
   07-safety-and-compliance.md     — medical disclaimers, Catalyst Standard, emergency protocol
+
+products/
+  00-index.md                     — product catalog index
+  fertile-ground-ttc.md           — TTC program detail
+  birth-ready-pregnancy.md        — Pregnancy program detail
+  core-restore-postpartum.md      — Postpartum program detail
+  app-subscriptions-and-addons.md — subscriptions, starter kit, open items
+
+marketing/
+  00-overview.md                  — funnel, channels, how to use this folder
+  channels.md                     — Pinterest, Instagram, assessment funnel
+  content-pillars.md              — content themes per stage
+  campaign-log.md                 — running log of campaigns + results (template)
+
+customers/
+  00-overview.md                  — assessment data model, score tiers
+  segment-ttc.md                  — TTC segment: goals, obstacles, messaging
+  segment-pregnancy.md            — Pregnancy segment
+  segment-postpartum.md           — Postpartum segment
 ```
 
 ## How to use this with an AI agent
@@ -34,8 +53,10 @@ what's here and how to use it.
 
 ## Roadmap
 
-This brain currently covers **business overview & brand voice**. Planned
-additions:
-- `products/` — detailed catalog per offering
-- `marketing/` — campaigns, content calendar, channel performance, what's worked
-- `customers/` — segments, personas, support history
+Covered so far: business overview, brand voice, products, marketing
+foundations, and customer segments. Planned additions:
+- Real campaign results (fill in `marketing/campaign-log.md` as campaigns run)
+- Real assessment-response distributions (fill in `customers/00-overview.md`
+  open items once Supabase data is available)
+- Support history / FAQ patterns
+- Financial/ops knowledge (if useful for agent-driven tasks)

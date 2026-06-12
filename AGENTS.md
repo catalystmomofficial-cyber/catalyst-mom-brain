@@ -14,6 +14,9 @@ brand facts — they're written down here.
 - **Coaching, community, affiliate, gamification**: `business/05-coaching-and-community.md`
 - **How we compare to competitors**: `business/06-competitive-positioning.md`
 - **Medical/safety rules — read before writing anything health-related**: `business/07-safety-and-compliance.md`
+- **Product-by-product detail**: `products/00-index.md`
+- **Marketing channels, funnel, content pillars, campaign log**: `marketing/00-overview.md`
+- **Customer segments by stage**: `customers/00-overview.md`
 
 ## Rules for agents
 
