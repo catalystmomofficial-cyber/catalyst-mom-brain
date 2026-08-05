@@ -1,0 +1,10 @@
+# Actual runtime dependencies for facebook_ads_mcp_complete.py.
+# Upstream's requirements.txt listed selenium, pandas, numpy, beautifulsoup4,
+# httpx, aiohttp, pytest, black and flake8 — none of which the module imports.
+fastmcp>=2.6.1
+requests>=2.32.3
+
+# Optional: only needed for analyze_ad_creative_elements, which scrapes ad
+# snapshot pages. Every other tool works without it.
+# Install with: pip install crawl4ai && crawl4ai-setup
+# crawl4ai>=0.7.0
