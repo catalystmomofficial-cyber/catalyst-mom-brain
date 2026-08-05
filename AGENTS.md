@@ -18,6 +18,14 @@ brand facts — they're written down here.
 - **Marketing channels, funnel, content pillars, campaign log**: `marketing/00-overview.md`
 - **Customer segments by stage**: `customers/00-overview.md`
 
+## Tools
+
+- **Competitor ad research**: `tools/facebook-ads-mcp/` searches Meta's public
+  Ad Library. Useful for studying competitor ad copy, hooks and offers. Note
+  that Meta only reports spend and impressions for political ads, so treat any
+  spend figure it returns for a commercial brand as unreliable — see that
+  folder's README. Log anything you learn in `marketing/campaign-log.md`.
+
 ## Rules for agents
 
 1. **Never invent pricing, features, or claims.** If it's not in this brain,
